@@ -4,7 +4,7 @@ Hi! In this project, I will guide you to organize CelebA dataset for each attrib
 
 
 ### Steps
-I will follow follow 3 steps;
+I will follow 3 steps;
 #### 1. Organize Data
 #### 2. Train Model
 #### 3. Model Usage
