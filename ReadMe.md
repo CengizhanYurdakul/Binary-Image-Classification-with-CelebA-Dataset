@@ -38,4 +38,5 @@ After training finished, we will try to use our model for classification. I am g
 ## Final
 
 Your folder should be like image;
+
 ![Folder](/imgs/2.png)
