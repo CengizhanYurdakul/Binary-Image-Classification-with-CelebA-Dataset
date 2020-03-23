@@ -16,8 +16,11 @@ Firstly, we need to download CelebA Align&Cropped Images from [here.](http://mml
 ## Create Network
 
 Now, we will create our network in `BinaryClassifier.py` file. There are some parameters that you can modify. I used my owns. Also, you can modify network with respect to your project. When you run file, you will see the summary of models. In my computer, I have GTX 1050Ti and training starting in almost 200 seconds.
-- Epoch 1/50, Training Loss: 0.417, Training Accuracy: 84.000, Testing Loss: 0.034, Testing Acc: 50.000, Time: 245.3589s
-- Epoch 2/50, Training Loss: 0.382, Training Accuracy: 84.000, Testing Loss: 0.023, Testing Acc: 58.000, Time: 231.649s
+
+```
+Epoch 1/50, Training Loss: 0.417, Training Accuracy: 84.000, Testing Loss: 0.034, Testing Acc: 50.000, Time: 245.3589s
+Epoch 2/50, Training Loss: 0.382, Training Accuracy: 84.000, Testing Loss: 0.023, Testing Acc: 58.000, Time: 231.649s
+```
 
 ## Model Usage
 
